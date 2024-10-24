@@ -1,0 +1,8 @@
+{
+  "entrepreneurs": [
+    "Fname","Lname","age","entrepreneur","status",
+    "mark","zukerberg","50","meta","alive",
+    "bill","gate","45","software","alive",
+    "elon","musk","60","software programmer","alive"
+  ]
+}

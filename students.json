@@ -1,0 +1,8 @@
+{
+  "students": [
+     "Fname","Lname","age","reg.no","class","school.name",
+     "dada","kola","13","12345","DataAnalysis","bafuto",
+     "kofo", "kingsley","14","2345","DataAnalysis","bafuto",
+     "glory", "chisom","15","45357","DataAnalysis","bafuto"
+  ]
+}
